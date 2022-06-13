@@ -1,3 +1,8 @@
+Block Chain Intergrated with React 
+
+Need to have Bitcoin core To access the project
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
